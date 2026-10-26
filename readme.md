@@ -40,7 +40,7 @@ The club name and trademarks belong to their owners.
 
 ## Links
 
-GitHub Repository: To be added
+GitHub Repository: https://github.com/marmosa/assignment_2
 
 Live Website: Not required for this submission.
 
