@@ -164,3 +164,8 @@ The image sources, photographers and licenses are listed below.
 - Copyright holder: Hungarian Football Federation (mlsz.hu)
 - License: Attribution required (permission stated on Wikimedia Commons)
 - Changes: Image displayed with CSS cropping to show Ola Brynhildsen.
+
+## Links
+
+- GitHub repository: https://github.com/marmosa/assignment_2
+- Live website: https://marmosa.github.io/assignment_2/
